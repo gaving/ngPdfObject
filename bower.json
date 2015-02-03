@@ -24,7 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "1.2.0",
+    "angular": "~1.2.0",
     "pdfobject": "~1.2.0"
   }
 }
